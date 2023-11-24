@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">I'm a Full-Stack Web Developer :sparkles:</h2>
+<h2 align="left">I'm a Full-Stack Web Developer 💻:</h2>
 
 ###
 
