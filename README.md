@@ -8,7 +8,7 @@
 
 ###
 
-📚 I'm currently learning **Node.js**  <br>🎯 My main goal is to land my **dream job as a developer** in 2024<br>🧠 I have a **growth mindset**, thus I strongly believe that we can develop our skills and talents through hard work and patience<br>⛰️ in my free time I love hiking in the mountains and climbing<br>🌍 Based in **Italy** but willing to move to other European countries
+📚 I'm currently learning **Node.js**  <br>🎯 My main goal is to land my **dream job as a developer** in 2024<br>🧠 I have a **growth mindset**, thus I strongly believe that we can develop our skills and talents through hard work and patience<br>⛰️ In my free time I love hiking in the mountains and climbing<br>🌍 Based in **Italy** but willing to move to other European countries
 
 ###
 
