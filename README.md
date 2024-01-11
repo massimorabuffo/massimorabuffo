@@ -54,6 +54,7 @@
   <a href="https://www.linkedin.com/in/massimo-rabuffo-5a7a71294/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"  />
   </a>
+  <div>or send me an email! <a href=mailto"rabuffomassimo@gmail.com">rabuffomassimo@gmail.com</a></div>
 </div>
 
 <!---
